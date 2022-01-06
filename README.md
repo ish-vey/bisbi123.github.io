@@ -8,4 +8,7 @@ my B.S. Computer Engineering.
 
 
 ## More To Come
-I'll be sharing more projects on GitHub soon enough. Thanks, and drop by soon!
+I'll be sharing more projects on GitHub soon enough. Thanks, and drop by soon! 
+
+## Contact
+
